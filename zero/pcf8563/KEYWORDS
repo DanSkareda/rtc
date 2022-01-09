@@ -1,0 +1,6 @@
+.oscilator()
+.rtctime()
+.rtcdate()
+.alarm_flag()
+.alarm()
+.rtcmap()
