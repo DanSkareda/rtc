@@ -1,0 +1,7 @@
+.offset()
+.osc_flag()
+.rtctime()
+.rtcdate()
+.alarm_flag()
+.alarm()
+.rtcmap()
